@@ -56,9 +56,9 @@ public class Robot extends TimedRobot {
    * Note: Any example colors should be calibrated as the user needs, these
    * are here as a basic example.
    */
-  private final Color kBlueTarget = new Color(0.143, 0.427, 0.429);
+  private final Color kBlueTarget = new Color(0.17, 0.42, 0.38);
   private final Color kGreenTarget = new Color(0.197, 0.561, 0.240);
-  private final Color kRedTarget = new Color(0.561, 0.232, 0.114);
+  private final Color kRedTarget = new Color(0.46, 0.36, 0.14);
   private final Color kYellowTarget = new Color(0.361, 0.524, 0.113);
   /**
    * This function is run when the robot is first started up and should be used for any
